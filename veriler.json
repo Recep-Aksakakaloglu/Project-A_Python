@@ -1,0 +1,45 @@
+{
+  "Merhaba": [
+    "Merhaba! Nasıl yardımcı olabilirim?",
+    "Hey! Size nasıl yardımcı olabilirim?",
+    "Merhabalar! Size nasıl yardımcı olabilirim?"
+  ],
+  "Nasılsın?": [
+    "Ben bir yapay zeka olduğum için duygularım yok ama size yardımcı olmaktan mutluluk duyarım.",
+    "Benim için her şey yolunda, teşekkür ederim! Sizin nasıl olduğunuzu sormak isterim."
+  ],
+  "Ne yapıyorsun?": [
+    "Sorularınıza cevap vermek için buradayım. Sizin için nasıl yardımcı olabilirim?",
+    "Size yardımcı olabilmek için buradayım. Sormak istediğiniz bir şey var mı?"
+  ],
+  "Teşekkürler": [
+    "Rica ederim! Başka bir sorunuz var mı?",
+    "Size yardımcı olabildiysem ne mutlu bana! Başka bir şey için buradayım."
+  ],
+  "Günaydın": [
+    "Günaydın! Size nasıl yardımcı olabilirim?",
+    "Merhaba! Harika bir gün olmasını umuyorum. Size nasıl yardımcı olabilirim?"
+  ],
+  "İyi geceler": [
+    "İyi geceler! Eğer başka bir şeye ihtiyacınız olursa buradayım.",
+    "Uyumadan önce size yardımcı olabileceğim başka bir konu var mı?"
+  ],
+  "Python hakkında bilgi verebilir misin?": [
+    "Elbette! Python, kolay okunabilirlik ve basit sözdizimi ile öne çıkan yüksek seviyeli bir programlama dilidir.",
+    "Python, genellikle öğrenmesi kolay ve çok yönlü kullanımı olan bir programlama dilidir."
+  ],
+  "Bir liste nasıl oluşturulur?": [
+    "Python'da bir liste köşeli parantezler içinde virgülle ayrılmış öğelerden oluşur. Örneğin: liste = [1, 2, 3]",
+    "Listeler, Python'da birden çok öğeyi saklamak için kullanılır ve çok çeşitli veri türlerini içerebilir."
+  ],
+  "Döngüler hakkında bilgi verebilir misin?": [
+    "Python'da döngüler, belirli bir işlemi belirli koşullar sağlandığı sürece tekrar etmek için kullanılır. 'for' ve 'while' döngüleri mevcuttur.",
+    "Döngüler, belirli bir şart sağlandığı sürece belirli bir işlemi tekrarlamak için kullanılır. 'for' ve 'while' döngüleri Python'da sıkça kullanılır."
+  ],
+  "Hava nasıl?": [
+    "Üzgünüm, ben dışarıya çıkamadığım için hava durumu hakkında bilgi veremem. Ancak internetten hava durumu öğrenebilirim!"
+  ],
+  "Sen Kimsin?": [
+    "Ben Recep ve Yılmaz tarafından oluşturulmuş bir yapay zekayım"
+  ]
+}
